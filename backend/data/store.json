@@ -1,0 +1,46 @@
+{
+  "files": [
+    {
+      "id": "55aef7ab-7d97-4be8-a490-e2d67a86e3cc",
+      "filename": "sample_doc.txt",
+      "path": "./data/storage\\55aef7ab-7d97-4be8-a490-e2d67a86e3cc_sample_doc.txt",
+      "content_snippet": ""
+    },
+    {
+      "id": "fa6c2040-7f00-4307-882c-1597aded867c",
+      "filename": "sample_doc.txt",
+      "path": "./data/storage\\fa6c2040-7f00-4307-882c-1597aded867c_sample_doc.txt",
+      "content_snippet": "Artificial Intelligence can help organize large volumes of digital content, making it easier to retrieve and analyze information.\nMachine learning algorithms improve search results by understanding context and meaning.\n"
+    },
+    {
+      "id": "dee09b03-554b-4b2f-859a-f062abf38479",
+      "filename": "sample_doc.txt",
+      "path": "./data/storage\\dee09b03-554b-4b2f-859a-f062abf38479_sample_doc.txt",
+      "content_snippet": ""
+    },
+    {
+      "id": "af1c1195-73d0-463c-a922-69cc1b5e60bf",
+      "filename": "sample_doc",
+      "path": "./data/storage\\af1c1195-73d0-463c-a922-69cc1b5e60bf_sample_doc",
+      "content_snippet": ""
+    },
+    {
+      "id": "4f4a0f17-1c6c-4b56-acf5-6a7353d0d879",
+      "filename": "sample",
+      "path": "./data/storage\\4f4a0f17-1c6c-4b56-acf5-6a7353d0d879_sample",
+      "content_snippet": ""
+    },
+    {
+      "id": "13bd9767-8bb0-4c43-bd0a-135896e95b9d",
+      "filename": "Software Engineering Project Implementation Phase Evaluation Rubric.pdf",
+      "path": "./data/storage\\13bd9767-8bb0-4c43-bd0a-135896e95b9d_Software Engineering Project Implementation Phase Evaluation Rubric.pdf",
+      "content_snippet": "Software Engineering Project Evaluation Rubric \u2013 \nImplementation phase \n\nTotal Marks covered by this document: 45 (Project Execution)  \nProject Duration: 4 weeks (2 sprints \u00d7 2 weeks each) \nEvaluation Date: End of Sprint 2 + Final Demo Presentation \n\n\ud83d\udccb EXECUTIVE SUMMARY - READ THIS FIRST \n\nWhat's Being Evaluated (45 marks breakdown): \n\nComponent \n\nMarks \n\nWhat We're Looking For \n\nJira & Sprint Management \n\n12 \n\nGit & SCRUM Practices \n\n10 \n\nCode Quality \n\nCI/CD Pipeline \n\n8 \n\n15 \n\nEPICs, User Sto..."
+    },
+    {
+      "id": "4b3c360f-6677-409d-805e-35f334e77ea8",
+      "filename": "Krishna's Investment Plan.pdf",
+      "path": "./data/storage\\4b3c360f-6677-409d-805e-35f334e77ea8_Krishna's Investment Plan.pdf",
+      "content_snippet": "SHAILENDRA KUMAR RAI\n\nter  Krishna  Chaitanya  graduated  from  the  Management  Development  Institute  in \nSoon after  Krishna  Chaitanya  graduated  from  the  Management  Development  Institute  in \nter  Krishna  Chaitanya  graduated  from  the  Management  Development  Institute  in \nGurgaon, India, he started his first job as an analyst with a credit rating company. One day, his \nGurgaon, India, he started his first job as an analyst with a credit rating company. One day, his \nGurgaon, Ind..."
+    }
+  ]
+}
