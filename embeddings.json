@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "AI and Industry",
+    "content": "Artificial intelligence is transforming industries.",
+    "embedding": [
+      0.9565853383932574,
+      0.8278918769330548,
+      0.7311131489556608,
+      0.056821274719150994,
+      0.2919647689550746
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Machine Learning",
+    "content": "Machine learning models learn from data.",
+    "embedding": [
+      0.40589393855303135,
+      0.7256041265059006,
+      0.7927677728496325,
+      0.1988784381436386,
+      0.7886548275097509
+    ]
+  },
+  {
+    "id": 3,
+    "title": "FAISS Search",
+    "content": "FAISS enables efficient similarity search.",
+    "embedding": [
+      0.1601719642303645,
+      0.6803990969394613,
+      0.7342156455168334,
+      0.902884238851227,
+      0.2799863943291425
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Embeddings",
+    "content": "Embedding vectors represent text meaning numerically.",
+    "embedding": [
+      0.7557560661647447,
+      0.30551240261824986,
+      0.47973620402728323,
+      0.43592218839592545,
+      0.04334212760858103
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Deep Learning",
+    "content": "Deep learning uses neural networks to process data.",
+    "embedding": [
+      0.13623097835962206,
+      0.8260341857360181,
+      0.623637250712316,
+      0.32756830707497886,
+      0.9365922378962106
+    ]
+  }
+]

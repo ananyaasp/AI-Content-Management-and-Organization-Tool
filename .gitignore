@@ -1,0 +1,24 @@
+# Ignore virtual environments
+.venv/
+venv/
+backend/venv/
+
+# Ignore Python cache and test cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pytest_cache/
+backend/.pytest_cache/
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore environment/config files
+.env
+*.env
+
+# Ignore compiled or temporary files
+*.log
+*.sqlite3
+.DS_Store
