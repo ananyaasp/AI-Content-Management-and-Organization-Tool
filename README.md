@@ -70,36 +70,6 @@ PESU_EC_CSE_A_P27_AI_Powered_Content_Management_and_Organization_Too_team-24/
 └── ...
 ```
 
-## 🛠️ Development Guidelines
-
-### Branching Strategy
-- `main`: Production-ready code
-- `develop`: Development branch
-- `feature/*`: Feature branches
-- `bugfix/*`: Bug fix branches
-
-### Commit Messages
-Follow conventional commit format:
-- `feat:` New features
-- `fix:` Bug fixes
-- `docs:` Documentation changes
-- `style:` Code style changes
-- `refactor:` Code refactoring
-- `test:` Test-related changes
-
-### Code Review Process
-1. Create feature branch from `develop`
-2. Make changes and commit
-3. Create Pull Request to `develop`
-4. Request review from team members
-5. Merge after approval
-
-## 📚 Documentation
-
-- [API Documentation](docs/api.md)
-- [User Guide](docs/user-guide.md)
-- [Developer Guide](docs/developer-guide.md)
-
 ## ⚙️ CI/CD Pipeline
 ## What the Pipeline Does
 - Automatically runs tests, linting, and build checks on every push or pull request.
@@ -145,5 +115,6 @@ npm test
 # Run tests with coverage
 npm run test:coverage
 ```
+
 
 
