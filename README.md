@@ -1,38 +1,11 @@
 # AI-Powered Content Management and Organization Tool
 
-**Project ID:** P27  
-**Course:** UE23CS341A  
-**Academic Year:** 2025  
-**Semester:** 5th Sem  
-**Campus:** EC  
-**Branch:** CSE  
-**Section:** A  
-**Team:** team 24
 
 ## 📋 Project Description
 
 An intelligent document and media organizer that automatically categorizes files, extracts metadata, and provides smart search capabilities using natural language processing. The project combines file system operations, text processing, and basic AI implementation for content analysis.
 
 This repository contains the source code and documentation for the AI-Powered Content Management and Organization Tool project, developed as part of the UE23CS341A course at PES University.
-
-## 🧑‍💻 Development Team (team 24)
-
-- [@PES2UG23CS038](https://github.com/PES2UG23CS038) - Scrum Master
-- [@PES2UG23CS036](https://github.com/PES2UG23CS036) - Developer Team
-- [@PES2UG23CS925](https://github.com/PES2UG23CS925) - Developer Team
-- [@PES2UG23CS066](https://github.com/PES2UG23CS066) - Developer Team
-
-## 👨‍🏫 Teaching Assistant
-
-- [@itsjiyapatel](https://github.com/itsjiyapatel)
-- [@Greesh-SE](https://github.com/Greesh-SE)
-- [@Siri2512](https://github.com/Siri2512)
-- [@Hurry-sh](https://github.com/Hurry-sh)
-- [@pes2ug22cs137](https://github.com/pes2ug22cs137)
-
-## 👨‍⚖️ Faculty Supervisor
-
-- [@Animesh](https://github.com/Animesh)
 
 
 ## 🚀 Getting Started
@@ -173,13 +146,4 @@ npm test
 npm run test:coverage
 ```
 
-## 📄 License
 
-This project is developed for educational purposes as part of the PES University UE23CS341A curriculum.
-
----
-
-**Course:** UE23CS341A  
-**Institution:** PES University  
-**Academic Year:** 2025  
-**Semester:** 5th Sem
